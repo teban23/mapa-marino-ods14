@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "el acuario",
+        "ubicacion": "ciudad mallorquin",
+        "tipo": "Limpieza",
+        "descripcion": "cienaga",
+        "latitud": 11.0234823,
+        "longitud": -74.843704
+    },
+    {
+        "nombre": "laguna caimanera",
+        "ubicacion": "coveñas",
+        "tipo": "recolección ",
+        "descripcion": "desechos toxicos",
+        "latitud": 9.4017581,
+        "longitud": -75.6787017
+    },
+    {
+        "nombre": "playa de puerto colombia",
+        "ubicacion": "puerto colombia",
+        "tipo": "limpieza",
+        "descripcion": "zona turistica",
+        "latitud": 11.0143927,
+        "longitud": -74.8765659
+    },
+    {
+        "nombre": "playas de puerto mocho",
+        "ubicacion": "puerto mocho",
+        "tipo": "limpieza",
+        "descripcion": "playa",
+        "latitud": 11.0597662,
+        "longitud": -74.8451608
+    },
+    {
+        "nombre": "solinilla",
+        "ubicacion": "solinilla",
+        "tipo": "Limpieza",
+        "descripcion": "playa publica en mal estado",
+        "latitud": 11.0290083,
+        "longitud": -74.9208537
+    }
+]
